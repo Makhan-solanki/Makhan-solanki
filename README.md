@@ -36,8 +36,8 @@ I'm a passionate developer who loves exploring the world of coding. My journey b
 Here are some of the projects I've worked on:
 
 ### Full-Stack Web Development
-- **[Paytem like app]**: A brief description of your project.
-- **[blog](#)**: A brief description of your project.
+- **[Paytem-like-app]**: 
+- **[blog](#)**:
 
 ## Learning & Growth
 
